@@ -56,10 +56,13 @@ npm run dev
 </code>
 </pre>
 
+
+
 <h2>🔗 Link</h2>
 <p>
-  <a href="portfolio-one-sepia-77.vercel.app">Live Demo</a>
+  <a href="https://portfolio-one-sepia-77.vercel.app" target="_blank">Live Demo</a>
 </p>
+
 
 <h2>👤 Project Developer</h2>
 <p>
