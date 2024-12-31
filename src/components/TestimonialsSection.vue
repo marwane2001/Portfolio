@@ -32,7 +32,7 @@
 <script setup>
 import { ref } from 'vue';
 import { Carousel , Navigation , Slide } from 'vue3-carousel';
-
+import 'vue3-carousel/dist/carousel.css';
 //Carousel settings
 const settings =ref({
     itemsToShow:1,
