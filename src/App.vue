@@ -8,6 +8,7 @@
       <LatestProjects/>
       <ContactSection/>
       <TestimonialsSection/>
+      <FooterSection/>
     </div>
   </template>
   
@@ -22,5 +23,7 @@
   const LatestProjects=defineAsyncComponent(()=> import('@/components/LatestProjectsSection.vue'));
   const ContactSection=defineAsyncComponent(()=> import('@/components/ContactSection.vue'));
   const TestimonialsSection=defineAsyncComponent(()=> import('@/components/TestimonialsSection.vue'));
+  const   FooterSection=defineAsyncComponent(()=> import('@/components/FooterSection.vue'));
+
   </script>
   
