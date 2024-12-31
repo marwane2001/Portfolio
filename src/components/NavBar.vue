@@ -20,14 +20,25 @@ import {ref} from 'vue';
 const Menu=ref(
     [
         {
-            name:'service',href:'#services'
+            name:'services',href:'#Services'
         },
         {
-            name:'service',href:'#services'
+            name:'About Me',href:'#About'
         },
         {
-            name:'service',href:'#services'
-        }
+            name:'Skills',href:'#Skills'
+        },
+        {
+            name:'Projects',href:'#Projects'
+        },
+        {
+            name:'Testimonials',href:'#Testimonials'
+        },
+        {
+            name:'Contact',href:'#Contact'
+        },
+
+
     ]
 )
 </script>
