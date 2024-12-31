@@ -2,6 +2,7 @@
     <div class="bg-[#111827] min-h-screen">
       <NavBar />
       <HeroSection />
+      <ServicesSection/>
     </div>
   </template>
   
@@ -10,5 +11,6 @@
   // Import Components Asynchronously
   const NavBar = defineAsyncComponent(() => import('@/components/NavBar.vue'));
   const HeroSection = defineAsyncComponent(() => import('@/components/Herosection.vue'));
+  const ServicesSection = defineAsyncComponent(() => import('@/components/ServicesSection.vue'));
   </script>
   
