@@ -22,10 +22,8 @@
   const Experiencesandskills=defineAsyncComponent(()=> import('@/components/Experience&skills.vue'));
   const LatestProjects=defineAsyncComponent(()=> import('@/components/LatestProjectsSection.vue'));
   const ContactSection=defineAsyncComponent(()=> import('@/components/ContactSection.vue'));
-  const TestimonialsSection=defineAsyncComponent(()=> import('@/components/TestimonialsSection.vue'));
   const FooterSection=defineAsyncComponent(()=> import('@/components/FooterSection.vue'));
   const BackToTopFunction=defineAsyncComponent(()=> import('@/components/BackToTopFunction.vue'));
-  const LoadingSpinnerFunction = defineAsyncComponent(()=> import('@/components/LoadingSpinnerFunction.vue'));
 
   </script>
   
