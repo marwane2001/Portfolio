@@ -7,10 +7,8 @@
       <Experiencesandskills/>
       <LatestProjects/>
       <ContactSection/>
-      <TestimonialsSection/>
       <FooterSection/>
       <BackToTopFunction/>
-      <LoadingSpinnerFunction/>
     </div>
   </template>
   

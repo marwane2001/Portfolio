@@ -9,7 +9,7 @@
                     aliquam?
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, porro!
                 </p>
-                <div class="col-lg-4 col-md-4 mb-lg-0 mt-5">
+                <div class="col-lg-5 col-md-4 mb-lg-0 mt-5">
                     <div class="flex mb-10 items-center">
                         <div class="p-2"
                             style="background: #111a3e; width: 50px;height: 46px; display: flex;justify-content: center; border-radius: 50%;
@@ -29,7 +29,7 @@
                         </div>
                         <div class="ml-5 text-white">
                             <h4>Phone</h4>
-                            <p>+212</p>
+                            <p>+212622117014</p>
                         </div>
                     </div>
                     <div class="flex mb-10 items-center">
@@ -41,7 +41,9 @@
                         </div>
                         <div class="ml-5 text-white">
                             <h4>LinkedIn</h4>
-                            <p>https://www.linkedin.com/in/marwane-skaro-618971239/</p>
+                            <a href="https://www.linkedin.com/in/marwane-skaro-618971239/" target="_blank">
+                              https://www.linkedin.com/in/marwane-skaro-618971239/
+                            </a>
                         </div>
                     </div>
                 </div>
